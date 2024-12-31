@@ -24,5 +24,5 @@ In this survey, we present the first detailed survey on multimodal 3D segmentati
 
 ##### data-data fusion
 
----- | ----- | ------ | ------ | ------
 Year | Venue | Acronym | Paper Title | Code/Project
+---- | ----- | ------- | ----------- | ------------
