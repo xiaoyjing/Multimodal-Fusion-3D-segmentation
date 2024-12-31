@@ -24,5 +24,9 @@ In this survey, we present the first detailed survey on multimodal 3D segmentati
 
 ##### data-data fusion
 
+##### feature-feature fusion
+
 Year | Venue | Acronym | Paper Title | Code/Project
 ---- | ----- | ------- | ----------- | ------------
+2020 | ECCV  |  EPNet  | EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection | [code](https://github.com/happinesslz/EPNet)
+
