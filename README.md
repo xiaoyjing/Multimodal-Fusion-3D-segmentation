@@ -29,4 +29,9 @@ In this survey, we present the first detailed survey on multimodal 3D segmentati
 Year | Venue | Acronym | Paper Title | Code/Project
 ---- | ----- | ------- | ----------- | ------------
 2020 | ECCV  |  EPNet  | EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection | [code](https://github.com/happinesslz/EPNet)
+2022 | ECCV | 2DPASS | 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds | [code](https://github.com/yanx27/2DPASS)
+2022 | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE | EPNet++ | EPNet++: Cascade Bi-Directional Fusion for Multi-Modal 3D Object Detection | [code](https://github.com/happinesslz/epnetv2)
+2023 | IEEE International Conference on Robotics and Automation | BEVFusion | BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation | [code](https://github.com/mit-han-lab/bevfusion)
+2023 | CVPR | CMNEXT | Delivering Arbitrary-Modal Semantic Segmentation | [code](https://github.com/jamycheung/DELIVER)
+2023 | CVPR | MSeg3D | Multi-modal 3D Semantic Segmentation for Autonomous Driving | [code](https: //github.com/jialeli1/lidarseg3d)
 
