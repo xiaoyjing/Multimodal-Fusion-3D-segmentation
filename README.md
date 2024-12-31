@@ -63,5 +63,10 @@ Year | Venue | Acronym | Paper Title | Code/Project
 Dataset | Year | Samples (train/val/test) | Evaluation Metrics | Num classes | Characterization | Code/Project
 ------- | ---- | ------------------------ | ------------------ | ----------- | ---------------- | ------------
 SemanticKITTI | 2019 | 19130/4071/20351 | mIoU | 19 | Collected by a Velodyne HDL-64E sensor(64 beams) and a front-view camera.  Sequence 00-10 are available for training and validation. | [code](https://www.semantic-kitti.org/tasks.html#semseg)
+Waymo | 2019 | 23691/5976/2982 | mIoU | 23 | Collected by a mid-range lidar (top), four short-range lidars (front, side left, side right, and rear)) of 64 beams and 5 cameras(front, front-left, front-right, side-left, and sideright). | [code](https://waymo.com/open/challenges/2024/3d-semantic-segmentation/)
+nuScenes | 2019 | 28130/6019/6008 | mIoU, fwIoU | 17 | 1,000 driving scenes with different weather and light conditions. sparser point cloud (35k points/frame) of 32 beams and RGB images captured by 6 cameras:front, front-left, front-right, back, back-left, and back-right. | [code](https://www.nuscenes.org/lidar-segmentation)
+A2D2 | 2020 | 22408/2274/13264 | mIoU | 38 | Collected with six cameras and five Velodyne VLP-16 sensors. | [code](https://www.a2d2.audi/a2d2/en/dataset.html)
+RELLIS-3D | 2020 | 7800/2413/3343 | mIoU | 14 | An off-road environment with images and point clouds with semantic-level 3D annotations. | [code](https://github.com/unmannedlab/RELLIS-3D)
+DELIVER | 2023 | 3983/2005/1897 | mIoU | 25 | Based on the CARLA simulator to provide six mutually orthogonal views. Include four adverse conditions out of five conditions and each condition has five corner cases. | [code](https://github.com/jamycheung/DELIVER)
 
 
