@@ -34,4 +34,10 @@ Year | Venue | Acronym | Paper Title | Code/Project
 2023 | IEEE International Conference on Robotics and Automation | BEVFusion | BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation | [code](https://github.com/mit-han-lab/bevfusion)
 2023 | CVPR | CMNEXT | Delivering Arbitrary-Modal Semantic Segmentation | [code](https://github.com/jamycheung/DELIVER)
 2023 | CVPR | MSeg3D | Multi-modal 3D Semantic Segmentation for Autonomous Driving | ([code](https://github.com/jialeli1/lidarseg3d))
+2023 | IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS | CMX | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers | ([code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation))
+2024 | ICML | GeminiFusion | GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer | [code](https://github.com/JiaDingCN/GeminiFusion)
+
+##### result-result fusion
+
+
 
