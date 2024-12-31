@@ -25,6 +25,13 @@ In this survey, we present the first detailed survey on multimodal 3D segmentati
 
 ##### data-data fusion
 
+Year | Venue | Acronym | Paper Title | Code/Project
+---- | ----- | ------- | ----------- | ------------
+2020 | Neurocomputing | N/A | A spatially enhanced network with camera-lidar fusion for 3D semantic segmentation | N/A
+2021 | IEEE Transactions on Intelligent Transportation Systems | N/A | Fast Road Detection by CNN-Based Camera–Lidar Fusion and Spherical Coordinate Transformation | N/A
+2023 | IEEE Transactions on Multimedia | LIF-Seg | LIF-Seg: LiDAR and Camera Image Fusion for 3D LiDAR Semantic Segmentation | N/A
+2023 | Signal, Image and Video Processing | N/A | U-Net-based RGB and LiDAR image fusion for road segmentation | N/A
+
 ##### feature-feature fusion
 
 Year | Venue | Acronym | Paper Title | Code/Project
