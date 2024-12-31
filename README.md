@@ -39,5 +39,29 @@ Year | Venue | Acronym | Paper Title | Code/Project
 
 ##### result-result fusion
 
+Year | Venue | Acronym | Paper Title | Code/Project
+---- | ----- | ------- | ----------- | ------------
+2020 | CVPR | xMUDA | xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation | [code](https://github.com/valeoai/xmuda)
+2021 | ICCV | PMF | Perception-Aware Multi-Sensor Fusion for 3D LiDAR Semantic Segmentation | [code](https://github.com/ICEORY/PMF)
+
+#### Asymmetric Fusion
+
+##### Data-feature fusion
+
+Year | Venue | Acronym | Paper Title | Code/Project
+---- | ----- | ------- | ----------- | ------------
+2024 |  Applied Intelligence | DFAMNet | DFAMNet: dual fusion attention multi-modal network for semantic segmentation on LiDAR point clouds | [code](https://github.com/Pdsn5/DFAMNet)
+
+##### Data-result fusion
+
+##### feature-result fusion
+
+##### feature-result fusion
+
+### **Datasets**
+
+Dataset | Year | Samples (train/val/test) | Evaluation Metrics | Num classes | Characterization | Code/Project
+------- | ---- | ------------------------ | ------------------ | ----------- | ---------------- | ------------
+SemanticKITTI | 2019 | 19130/4071/20351 | mIoU | 19 | Collected by a Velodyne HDL-64E sensor(64 beams) and a front-view camera.  Sequence 00-10 are available for training and validation. | [code](https://www.semantic-kitti.org/tasks.html#semseg)
 
 
