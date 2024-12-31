@@ -37,13 +37,21 @@ Year | Venue | Acronym | Paper Title | Code/Project
 Year | Venue | Acronym | Paper Title | Code/Project
 ---- | ----- | ------- | ----------- | ------------
 2020 | ECCV  |  EPNet  | EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection | [code](https://github.com/happinesslz/EPNet)
+2021 | | N/A | Learning from 2D: Contrastive Pixel-to-Point Knowledge Transfer for 3D Pretraining | N/A
 2022 | ECCV | 2DPASS | 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds | [code](https://github.com/yanx27/2DPASS)
 2022 | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE | EPNet++ | EPNet++: Cascade Bi-Directional Fusion for Multi-Modal 3D Object Detection | [code](https://github.com/happinesslz/epnetv2)
 2023 | IEEE International Conference on Robotics and Automation | BEVFusion | BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation | [code](https://github.com/mit-han-lab/bevfusion)
 2023 | CVPR | CMNEXT | Delivering Arbitrary-Modal Semantic Segmentation | [code](https://github.com/jamycheung/DELIVER)
 2023 | CVPR | MSeg3D | Multi-modal 3D Semantic Segmentation for Autonomous Driving | ([code](https://github.com/jialeli1/lidarseg3d))
+2023 | IEEE Transactions on Circuits and Systems for Video Technology | N/A | A Multi-Phase Camera-LiDAR Fusion Network for 3D Semantic Segmentation With Weak Supervision | N/A
 2023 | IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS | CMX | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers | ([code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation))
+2023 | EIECS | N/A | A Multi-Modal Fusion 3D Semantic Segmentation Method | N/A
+2023 | IEEE ROBOTICS AND AUTOMATION LETTERS | CMDFusion | CMDFusion: Bidirectional Fusion Network With Cross-Modality Knowledge Distillation for LiDAR Semantic Segmentation | N/A
+2024 | ICRA | DefFusion | DefFusion: Deformable Multimodal Representation Fusion for 3D Semantic Segmentation | N/A
+2024 | ISCAS | CLFusion | CLFusion:3D Semantic Segmentation Based on Camera and Lidar Fusion | N/A
 2024 | ICML | GeminiFusion | GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer | [code](https://github.com/JiaDingCN/GeminiFusion)
+2024 | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE | N/A | Uni-to-Multi Modal Knowledge Distillation for Bidirectional LiDAR-Camera Semantic Segmentation | N/A
+2024 | N/A | vFusedSeg3D | vFusedSeg3D | N/A
 
 ##### result-result fusion
 
