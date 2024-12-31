@@ -14,8 +14,9 @@ If you find any work missing or have any suggestions (papers, implementations an
 
 ### **Introduction**
 In this survey, we present the first detailed survey on multimodal 3D segmentation.
-<img width="416" alt="图片1" src="https://github.com/user-attachments/assets/8cc2e40c-3b05-4201-b763-82fc589145a6" />
-<img width="416" alt="图片2" src="https://github.com/user-attachments/assets/7c648e40-8b16-42b4-b3a7-6cbebaf4d8a8" />
+<img width="514" alt="1735626381717" src="https://github.com/user-attachments/assets/6f9c1699-690c-4e4c-95cf-d57489fbae78" />
+<img width="510" alt="1735626429838" src="https://github.com/user-attachments/assets/cf0cf712-7653-4a6d-920c-e2e25680ea7e" />
+
 
 
 ### **Methods: A Survey**
