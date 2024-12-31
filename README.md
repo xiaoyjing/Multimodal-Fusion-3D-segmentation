@@ -59,6 +59,10 @@ Year | Venue | Acronym | Paper Title | Code/Project
 ---- | ----- | ------- | ----------- | ------------
 2020 | CVPR | xMUDA | xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation | [code](https://github.com/valeoai/xmuda)
 2021 | ICCV | PMF | Perception-Aware Multi-Sensor Fusion for 3D LiDAR Semantic Segmentation | [code](https://github.com/ICEORY/PMF)
+2023 | IEEE Transactions on Circuits and Systems for Video Technology | N/A | A Multi-Phase Camera-LiDAR Fusion Network for 3D Semantic Segmentation With Weak Supervision | N/A
+2023 | IEEE TRANSACTIONS ON INTELLIGENT VEHICLES | Multi-Phase Multi-Modal Fusion | Robust 3D Semantic Segmentation Based on Multi-Phase Multi-Modal Fusion for Intelligent Vehicles | N/A
+2024 | IEEE Transactions on Pattern Analysis and Machine Intelligence | EPMF | EPMF: Efficient Perception-aware Multi-sensor Fusion for 3D Semantic Segmentation | N/A
+
 
 #### Asymmetric Fusion
 
@@ -70,9 +74,21 @@ Year | Venue | Acronym | Paper Title | Code/Project
 
 ##### Data-result fusion
 
-##### feature-result fusion
+Year | Venue | Acronym | Paper Title | Code/Project
+---- | ----- | ------- | ----------- | ------------
+2020 | IROS | N/A | LiDAR guided Small obstacle Segmentation | N/A
+2022 | Sensors | N/A | Enhanced Perception for Autonomous Driving Using Semantic and Geometric Data Fusion | N/A
 
 ##### feature-result fusion
+
+Year | Venue | Acronym | Paper Title | Code/Project
+---- | ----- | ------- | ----------- | ------------
+2023 | International Journal of Automotive Technology | N/A | IMPROVED 3D SEMANTIC SEGMENTATION MODEL BASED ONRGB IMAGE AND LIDAR POINT CLOUD FUSION FORAUTOMANTIC DRIVING | N/A
+
+##### result-guided fusion
+Year | Venue | Acronym | Paper Title | Code/Project
+---- | ----- | ------- | ----------- | ------------
+2021 | 3DV | 2D3DNet | Learning 3D Semantic Segmentation with only 2D Image Supervision | N/A
 
 ### **Datasets**
 
