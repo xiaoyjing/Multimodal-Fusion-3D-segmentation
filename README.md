@@ -33,5 +33,5 @@ Year | Venue | Acronym | Paper Title | Code/Project
 2022 | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE | EPNet++ | EPNet++: Cascade Bi-Directional Fusion for Multi-Modal 3D Object Detection | [code](https://github.com/happinesslz/epnetv2)
 2023 | IEEE International Conference on Robotics and Automation | BEVFusion | BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation | [code](https://github.com/mit-han-lab/bevfusion)
 2023 | CVPR | CMNEXT | Delivering Arbitrary-Modal Semantic Segmentation | [code](https://github.com/jamycheung/DELIVER)
-2023 | CVPR | MSeg3D | Multi-modal 3D Semantic Segmentation for Autonomous Driving | [code]((https://github.com/jialeli1/lidarseg3d))
+2023 | CVPR | MSeg3D | Multi-modal 3D Semantic Segmentation for Autonomous Driving | ([code](https://github.com/jialeli1/lidarseg3d))
 
