@@ -46,7 +46,7 @@ Year | Venue | Acronym | Paper Title | Code/Project
 2023 | IEEE Transactions on Circuits and Systems for Video Technology | N/A | A Multi-Phase Camera-LiDAR Fusion Network for 3D Semantic Segmentation With Weak Supervision | N/A
 2023 | IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS | CMX | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers | ([code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation))
 2023 | EIECS | N/A | A Multi-Modal Fusion 3D Semantic Segmentation Method | N/A
-2023 | IEEE ROBOTICS AND AUTOMATION LETTERS | CMDFusion | CMDFusion: Bidirectional Fusion Network With Cross-Modality Knowledge Distillation for LiDAR Semantic Segmentation | N/A
+2023 | IEEE ROBOTICS AND AUTOMATION LETTERS | CMDFusion | CMDFusion: Bidirectional Fusion Network With Cross-Modality Knowledge Distillation for LiDAR Semantic Segmentation | [code](https://github.com/Jun-CEN/CMDFusion)
 2024 | ICRA | DefFusion | DefFusion: Deformable Multimodal Representation Fusion for 3D Semantic Segmentation | N/A
 2024 | ISCAS | CLFusion | CLFusion:3D Semantic Segmentation Based on Camera and Lidar Fusion | N/A
 2024 | ICML | GeminiFusion | GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer | [code](https://github.com/JiaDingCN/GeminiFusion)
