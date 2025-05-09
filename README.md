@@ -14,8 +14,7 @@ If you find any work missing or have any suggestions (papers, implementations an
 
 ### **Introduction**
 In this survey, we present the first detailed survey on multimodal 3D segmentation.
-<img width="514" alt="1735626381717" src="https://github.com/user-attachments/assets/6f9c1699-690c-4e4c-95cf-d57489fbae78" />
-<img width="510" alt="1735626429838" src="https://github.com/user-attachments/assets/cf0cf712-7653-4a6d-920c-e2e25680ea7e" />
+<img width="635" alt="1746777205707" src="https://github.com/user-attachments/assets/b2f0e9ce-4ad7-47b8-8471-7633403a9e7d" />
 
 
 
@@ -85,10 +84,6 @@ Year | Venue | Acronym | Paper Title | Code/Project
 ---- | ----- | ------- | ----------- | ------------
 2023 | International Journal of Automotive Technology | N/A | IMPROVED 3D SEMANTIC SEGMENTATION MODEL BASED ONRGB IMAGE AND LIDAR POINT CLOUD FUSION FORAUTOMANTIC DRIVING | N/A
 
-##### result-guided fusion
-Year | Venue | Acronym | Paper Title | Code/Project
----- | ----- | ------- | ----------- | ------------
-2021 | 3DV | 2D3DNet | Learning 3D Semantic Segmentation with only 2D Image Supervision | N/A
 
 ### **Datasets**
 
